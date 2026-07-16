@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IshaghCheikh
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in Data Science/ML/DL
 - 📫 How to reach me : ishagh.cheikhsidiya@ensae.fr
 
 
